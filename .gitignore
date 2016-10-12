@@ -7,6 +7,8 @@
 
 # mvn
 /target
+*/target
 
 # idea
 /.idea
+*.iml
