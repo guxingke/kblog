@@ -4,8 +4,6 @@ server:
 spring:
   profiles:
     active: dev
-  resources:
-    static-locations: classpath:/resources/,classpath:/META-INF/resources/,classpath:/META-INF/resources/webjars/
   application:
     name: kblog
   datasource:
