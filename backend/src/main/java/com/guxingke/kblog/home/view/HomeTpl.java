@@ -1,4 +1,4 @@
-package com.guxingke.kblog.portal;
+package com.guxingke.kblog.home.view;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

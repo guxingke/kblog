@@ -1,6 +1,6 @@
 package com.guxingke.kblog.context.config;
 
-import com.guxingke.kblog.model.Option;
+import com.guxingke.kblog.option.model.Option;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.PathSelectors;
